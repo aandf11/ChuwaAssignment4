@@ -1,0 +1,32 @@
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+
+.btn {
+  border-radius: 4px;
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  border-radius: 4px;
+  background-color: red; /* Green */
+  color: white;
+}
+
+#add {
+  border-radius: 4px;
+  transition-duration: 0.4s;
+}
+
+#add:hover {
+  border-radius: 4px;
+  background-color: green; /* Green */
+  color: white;
+}
